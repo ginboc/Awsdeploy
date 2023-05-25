@@ -96,7 +96,7 @@ if (isset($_POST['submit'])) {
 <body>
 
     <div class="container">
-        <h2>Login</h2>
+        <h2>Login GIt</h2>
         <form method="POST" action="">
             <label for="username">Usuario:</label>
             <input type="text" name="username" required><br><br>
